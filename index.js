@@ -1,4 +1,4 @@
-const arr1 = [4, 5, 6, 7]
+const arr1 = [4, 5, 6, 7, 9]
 const arr2 = [1, 2, 3, 3, 5]
 
 let termCredits = 0;
