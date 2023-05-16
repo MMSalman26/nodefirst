@@ -10,4 +10,4 @@ for (let i = 0; i < 4; i++) {
 }
 
 console.log(termCredits)
-console.log(`main brunch from pc`);
+console.log(`main brunch from pc again`);
